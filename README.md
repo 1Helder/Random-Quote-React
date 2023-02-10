@@ -9,3 +9,5 @@ Projeto que mostra citações aleatórias e seus autores, foi realizado usando R
 2°- Com as dependências instaladas, execute o projeto com o comando "npm start"
 
 # Imagens
+![image](https://user-images.githubusercontent.com/62842033/218162674-2839fd7d-eaf7-4345-8952-6ab53f210bc0.png)
+
