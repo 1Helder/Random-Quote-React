@@ -1,0 +1,51 @@
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(to right, #000000, #434343)
+}
+
+
+
+.quote {
+  background-color: #1e1d1e;
+  color: white;
+  border-radius: 10px;
+  width: 450px;
+  height: 320px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.quote h2 {
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quote small {
+  font-size: 1.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 1rem;
+}
+
+.btn {
+  display: block;
+  margin-top: 1rem;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border: 2px solid;
+  transition: color 1s;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.btn:hover {
+  background: #1e1d1e;
+  color: #f0f0f0;
+}
